@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zicrou
-- 👀 I’m interested in Web development front and backend using Ruby On Rails which is my favorite but i also do php,
+- 👀 I’m interested in Web development front and backend using Ruby On Rails which is my favorite but i also do php,👀
 - 🌱 I’m currently learning Flutter, React,...
 - 💞️ I’m looking to collaborate on web project, anything that could be helping
 - 📫 How to reach me email: aazseck@gmail.com
